@@ -1,0 +1,92 @@
+
+<web-app id="WebApp_ID" version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+	<display-name>Shopping-Retail-Project</display-name>
+	
+  <display-name>Shopping-Retail-Project</display-name> <!-- This should be placed directly under the <web-app> element -->
+
+  <servlet>
+    <servlet-name>SignInServlet</servlet-name>
+    <servlet-class>SignInServlet</servlet-class>
+  </servlet>
+
+  <servlet>
+    <servlet-name>SignUpServlet</servlet-name>
+    <servlet-class>SignUpServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>SignInServlet</servlet-name>
+    <url-pattern>/SignInServlet</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>SignUpServlet</servlet-name>
+    <url-pattern>/SignUpServlet</url-pattern>
+  </servlet-mapping>
+<servlet>
+    <servlet-name>ShopSiginUp</servlet-name>
+    <servlet-class>ShopSiginUp</servlet-class>
+</servlet>
+<servlet>
+	<description>
+	</description>
+	<display-name>Product</display-name>
+	<servlet-name>Product</servlet-name>
+	<servlet-class>Product</servlet-class>
+</servlet>
+<servlet>
+	<description>
+	</description>
+	<display-name>GetStarted</display-name>
+	<servlet-name>GetStarted</servlet-name>
+	<servlet-class>GetStarted</servlet-class>
+</servlet>
+<servlet>
+	<description>
+	</description>
+	<display-name>CheckOut</display-name>
+	<servlet-name>CheckOut</servlet-name>
+	<servlet-class>CheckOut</servlet-class>
+</servlet>
+<servlet>
+	<description>
+	</description>
+	<display-name>Cart_History</display-name>
+	<servlet-name>Cart_History</servlet-name>
+	<servlet-class>Cart_History</servlet-class>
+</servlet>
+<servlet>
+	<description>
+	</description>
+	<display-name>User_Complete_History</display-name>
+	<servlet-name>User_Complete_History</servlet-name>
+	<servlet-class>User_Complete_History</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>ShopSiginUp</servlet-name>
+    <url-pattern>/ShopSiginUp</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+	<servlet-name>Product</servlet-name>
+	<url-pattern>/Product</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+	<servlet-name>GetStarted</servlet-name>
+	<url-pattern>/GetStarted</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+	<servlet-name>CheckOut</servlet-name>
+	<url-pattern>/CheckOut</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+	<servlet-name>Cart_History</servlet-name>
+	<url-pattern>/Cart_History</url-pattern>
+</servlet-mapping>
+<servlet-mapping>
+	<servlet-name>User_Complete_History</servlet-name>
+	<url-pattern>/User_Complete_History</url-pattern>
+</servlet-mapping>
+
+</web-app>
+
+
