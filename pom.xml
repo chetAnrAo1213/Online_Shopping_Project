@@ -42,11 +42,7 @@
 			<version>5.6.15.Final</version>
 		</dependency>
 
-		<dependency>
-			<groupId>BackupProject</groupId>
-			<artifactId>BackupProject</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		
   </dependencies>
   <build>
     <finalName>Shopping-Retail-Project</finalName>
