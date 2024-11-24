@@ -12,10 +12,8 @@ __________________________________________________
 # Demo Video
 Using the Application through Account Creation/User Registration.
 _________________________________________________
-https://github.com/user-attachments/assets/f5271370-fb93-4d6c-a39d-1fa30d03c155
+https://github.com/user-attachments/assets/5bc1e15c-94aa-44be-9be7-70bd9a25b6a9
 __________________________________________________
 Using the Application through Account Sign In/User Login.
 _________________________________________________
-https://github.com/user-attachments/assets/5bc1e15c-94aa-44be-9be7-70bd9a25b6a9
-
-
+https://github.com/user-attachments/assets/f5271370-fb93-4d6c-a39d-1fa30d03c155
