@@ -10,8 +10,6 @@ DataBase :- MySql(V8).
 Project Management :- Maven.
 __________________________________________________
 # Demo Video
-Client Side 
-1) Using SignIn
 https://github.com/user-attachments/assets/f5271370-fb93-4d6c-a39d-1fa30d03c155
 
 
