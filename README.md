@@ -18,7 +18,10 @@ Using the Application through Account Sign In/User Login.
 _________________________________________________
 https://github.com/user-attachments/assets/f5271370-fb93-4d6c-a39d-1fa30d03c155
 _________________________________________________
-Data Base Review
+Data Base Review for the User.
 ________________________________________________
 https://github.com/user-attachments/assets/51f88c16-4a23-4b32-b975-5cde9840f67f
-
+_________________________________________________
+Server Side Hibernate Queries.
+________________________________________________
+https://github.com/user-attachments/assets/0273dbb9-54b3-4a93-a2f5-13ef849a866a
